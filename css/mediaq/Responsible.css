@@ -1,0 +1,112 @@
+@media only screen and (max-width: 600px) {
+    .header{
+        width: 100%;
+    }
+    .header-img{
+        display: none;
+    }
+    .header-menu{
+        width: auto;
+    }
+    .hearder-lista{
+        margin: 0px 5px;
+    }
+    .inicio-contenedor{
+       width: 100%;
+    }
+
+    .inicio-titulo{
+        font-size: 2rem;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0px auto;
+        padding: 10px;
+    }
+    .inicio{
+        display: flex;
+        flex-wrap: wrap;
+
+    }
+    .inicio-foto-img{
+        width: 100%;
+    }
+
+    .sobre-contenedor{
+display: flex;
+flex-wrap: wrap;
+    }
+    .sobre-mision{
+    width: 200px;
+    margin: 10px auto;
+    background: #121a21;
+    }
+
+    .sobre-detalles{
+        width: auto;
+    margin: 0px;
+    padding: 0px 30px 0px 100px;
+    }
+    .experiencia-encriptador-contenido{
+        width: 100%;
+    }
+    .experiencia-encriptador-contenedor{
+        display: flex;
+       flex-wrap: wrap;
+       width: 100%;
+    }
+   .formacion{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+   }
+
+   .formacion-img{
+    width: 100%;
+    margin: 10px;
+   }
+
+   .skills-img{
+    width: 300px;
+    height: 181px;
+    background: #1a1c2d;
+    margin: 10px auto;  
+}
+
+.skills-contenedor{
+    width: 100%;
+    margin: 120px auto;
+    background: #202235;
+   }
+
+   .hobbies-img{
+    width: 300px;
+    height: 180px;
+    background: #1a1c2d;
+    margin: 20px auto;
+   
+   }
+    .formacion-contenedor{
+
+    }
+    .experiencia{
+
+    }
+
+    .experiencia-aorcado{
+
+    }
+    .contactos{
+
+    }
+
+    .pieDepagina{
+
+    }
+
+ }
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) { }
+@media (min-width: 1200px) { }
+@media only screen and (min-width : 1824px) { 
+
+}

@@ -1,0 +1,54 @@
+
+.experiencia-encriptador-contenedor{
+    display: flex;
+    width: 50%;
+    margin: 0px auto;
+
+}
+
+
+.experiencia-encriptador-contenido {
+    width: 50%;
+}
+
+.experiencia-encriptar-inicio{
+    margin: 10px;
+}
+
+.experiencia-encriptador-mensajero{
+    background: #1c1e31;
+    padding: 10px;
+    resize: none;
+    border: none;
+    outline: none;
+    margin: 20px auto;
+    color: #f84754;
+}
+.experiencia-encriptador-detalle-seimg{
+    position: relative;
+    top: -233px;
+    padding: 10px;
+animation: coloranimado 2s linear infinite;
+}
+@keyframes coloranimado {
+    0% {
+        color: #f8475466;
+    }
+
+    100% {
+        color: #f84754;
+    }
+}
+    
+.experiencia-encriptador-detalle-titulo{
+    font-size: 12pt;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.experiencia-encriptador-detalle-parafo{
+    font-size: 12pt;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}

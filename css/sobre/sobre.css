@@ -1,0 +1,68 @@
+.sobre{
+    width: 100%;
+    height: 100vh;
+    margin: 0px auto;
+}
+.sobre-detalles{
+    width: 80%;
+    margin: 50px auto 0px  auto;
+    color: #c9c9c9;    
+    font-size: 1.215rem;
+    font-weight: 200;
+    padding: 120px 30px 0px 120px;
+}
+
+.sobre-contenedor{
+    width: 90%;
+    display: flex;
+    padding: 10px;
+    margin: 0px auto;
+}
+.sobre-mision {
+    width: 40%;
+    margin: 10px auto;
+    background: #121a21;
+
+}
+
+.sobre-vision{
+    width: 40%;
+    margin: 10px auto;
+    background: #121a21;
+}
+.sobre-valores{
+    width: 1000px;
+    margin: 10px auto;
+    background: #121a21;
+}
+
+.sobre-b{
+    color: #72dfbe;
+}
+.sobre-titulo{
+    color: #fff;
+    text-align: center;
+    border-bottom: 2px solid #72dfbe;
+    padding: 10px;
+    width: 90%;
+    margin: 0px auto;
+
+}
+.sobre-p1{
+    color: #fff;
+    padding: 20px;
+    font-size: 1.115rem;
+    font-weight: 200;
+}
+.sobre-pdf{
+width: 300px;
+margin: 10px auto;
+}
+.sobre-pdf-btn{
+    width: 300px;
+    height: 50px;
+    border: 2px solid #f84754 ;
+    padding: 10px;
+    background: #1b2229;
+    color: #f84754;
+}

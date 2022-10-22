@@ -1,0 +1,12 @@
+.pieDepagina{
+    margin: 0px auto;
+    background: #232323;
+   padding: 20px;
+    
+}
+.pieDepagina-detalles {
+    width: 100%;
+    color: #fff;
+    margin: 30px auto;
+    text-align: center;
+}

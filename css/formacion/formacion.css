@@ -1,0 +1,58 @@
+.formacion-contenedor{
+    width: 98%;
+    margin: 120px auto;
+   
+}
+
+
+.formacion-titulo{
+    color: #fff;
+    text-align: center;
+    border-bottom: 2px solid #f84754 ;
+    padding: 10px;
+    width: 300px;
+    margin: 120px auto;
+}
+
+.formacion{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+
+.formacion-img{
+    width: 30%;
+    margin: 10px auto;
+    background: #f7f7f7;
+}
+.formacion-img-contenedor{
+    width: 80px;
+    height: 80px;
+    margin: 10px auto;
+}
+.formacion-img-img{
+    width: 100%;
+   
+   
+}
+.formacion-detalles{
+    color: #f84754;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;  
+}
+
+.inicio-redes{
+    width: 300px;
+    margin: 10px auto;
+}
+.inicio-link-linkedin {
+    text-decoration: none;
+    color: #f7f7f7;
+    margin: 30px;
+}
+.inicio-link-git{
+    text-decoration: none;
+    color: #f7f7f7;
+    margin: 10px;
+}

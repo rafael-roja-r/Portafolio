@@ -1,0 +1,99 @@
+.contactos{
+    background: #23263a;
+    width: 80%;
+    margin: 100px auto;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.contactos-titulo, .contactos-detalles{
+    color: #f84754;
+}
+
+.contactos-img{
+    margin: 10px auto;
+}
+.contactos-formulario{
+    width: 400px;
+    margin: 10px auto;
+
+}
+.contactos-formulario-data{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 10px;
+    
+}
+
+.contactos-nombre{
+    font-size: 12pt;
+    margin: 5px 4px;
+    color: #f84754;
+}
+
+.contactos-nombre-input{
+    width: 100%;
+    outline: none;
+    padding: 5px;
+    background: #23263a;
+    border: 1px solid #f84754;
+    color: #ffffff;
+}
+.contactos-correo{
+    font-size: 12pt;
+    margin: 5px 4px;
+    color: #f84754;
+}
+.contactos-correo-input{
+    width: 100%;
+    outline: none;
+    padding: 5px;
+    background: #23263a;
+    border: 1px solid #f84754;
+    color: #ffffff;
+}
+.contactos-asunto{
+    font-size: 12pt;
+    margin: 5px 4px;
+    color: #f84754;
+}
+
+.contactos-asunto-inptu{
+    width: 100%;
+    outline: none;
+    padding: 5px;
+    background: #23263a;
+    border: 1px solid #f84754;
+    color: #ffffff;
+}
+
+.contactos-mensaje{
+    font-size: 12pt;
+    margin: 5px 4px;
+    color: #f84754;
+}
+.contactos-mensaje-input{
+    width: 100%;
+    outline: none;
+    padding: 5px;
+    resize: none;
+    background: #23263a;
+    border: 1px solid #f84754;
+    color: #ffffff;
+}
+.contactos-boton{
+    background: #23263a;
+    margin: 10px 0px;
+    padding: 10px;
+    border: 1px solid #f84754;
+    color: #f84754;
+}
+.contactos-boton:hover{
+    background: #f84754;
+    margin: 10px 0px;
+    padding: 10px;
+    border: 1px solid #f84754;
+    color: #ffffff;
+}
+

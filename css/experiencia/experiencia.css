@@ -1,0 +1,133 @@
+.experiencia-encriptador {
+    display: flex;
+    flex-wrap: wrap;
+    background: #1a1c2d;
+}
+
+.experiencia-litulo{
+    color: #fff;
+    text-align: center;
+    border-bottom: 2px solid #f84754 ;
+    padding: 10px;
+    width: 300px;
+    margin: 120px auto;
+}
+
+.experiencia-encriptador-section {
+    margin: 10px;
+}
+
+.experiencia-encriptador-texarea {
+    padding: 10px;
+}
+
+.experiencia-encriptador-ingresarText {
+    text-align: center;
+    resize: none;
+    outline: none;
+    border: none;
+    padding: 10px;
+    background: #1c1e31;
+    color: #f84754;
+}
+
+.experiencia-encriptador-detalle-alerta {
+    color: #fff;
+}
+
+.experiencia-encriptador-titulo {
+    color: #fff;
+}
+
+.experiencia-encriptador-text {
+    color: #fff;
+}
+
+.experiencia-encriptador-detalles {
+    position: relative;
+    top: 80px;
+    margin: 30px;
+    height: 250px;
+}
+
+.experiencia-encriptador-detalle-copiar {
+    color: green;
+    animation: copiar 1s linear;
+    text-align: center;
+}
+
+@keyframes copiar {
+    0% {
+        font-size: 12pt;
+    }
+
+    100% {
+        font-size: 0pt;
+    }
+}
+
+.experiencia-encriptador-detalle-btn1 {
+    border: 1px solid #f84754;
+    background: #1a1c2d;
+    color: #f84754;
+    width: 110px;
+    height: 50px;
+    margin: 10px;
+}
+.experiencia-encriptador-detalle-btn1:hover{
+    background: #f84754;
+    color: #fff;
+}
+
+.experiencia-encriptador-detalle-btn2 {
+    border: 1px solid #f84754;
+    background: #1a1c2d;
+    color: #f84754;
+    width: 110px;
+    height: 50px;
+    margin: 10px;
+}
+.experiencia-encriptador-detalle-btn2:hover{
+    background: #f84754;
+    color: #fff;
+}
+
+.experiencia-encriptador-detalle-copi {
+    border: 1px solid #f84754;
+    background: #1a1c2d;
+    color: #f84754;
+    width: 110px;
+    height: 50px;
+    margin: 10px;
+}
+
+.experiencia-encriptador-detalle-copi:hover{
+    background: #f84754;
+    color: #fff;
+}
+.experiencia-encriptador-botones-n1 {
+    border: 1px solid #f84754;
+    background: #1a1c2d;
+    color: #f84754;
+    width: 110px;
+    height: 50px;
+    margin: 10px;
+}
+.experiencia-encriptador-botones-n1:hover{
+    background: #f84754;
+    color: #fff;
+}
+
+.experiencia-encriptador-botones-n2 {
+    border: 1px solid #f84754;
+    background: #1a1c2d;
+    color: #f84754;
+    width: 110px;
+    height: 50px;
+    margin: 10px;
+}
+.experiencia-encriptador-botones-n2:hover{
+    background: #f84754;
+    color: #fff;
+}
+

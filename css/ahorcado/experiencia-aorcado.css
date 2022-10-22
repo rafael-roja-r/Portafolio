@@ -1,0 +1,58 @@
+.experiencia-aorcado{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.experiencia-ahorcado-detalles{
+ width: 400px;
+ height: 400px;
+ position: relative;
+ margin: 20px auto;
+ top: 80px;
+}
+.experiencia-ahorcado-titulo{
+    color: #fff;
+    margin: 10px;
+
+}
+.experiencia-ahorcado-text{
+    color: #fff;
+    margin: 10px;
+}
+.experiencia-ahorcado-botones{
+margin: 10px;
+}
+
+.experiencia-ahorcado-botones-n1{
+    border: 1px solid #f84754;
+    background: #1a1c2d;
+    color: #f84754;
+    width: 110px;
+    height: 50px;
+    margin: 10px;
+}
+
+.experiencia-ahorcado-botones-n1:hover{
+    background: #f84754;
+    color: #fff;
+}
+.experiencia-ahorcado-botones-n2{
+    border: 1px solid #f84754;
+    background: #1a1c2d;
+    color: #f84754;
+    width: 110px;
+    height: 50px;
+    margin: 10px;
+}
+.experiencia-ahorcado-botones-n2:hover{
+    background: #f84754;
+    color: #fff;
+}
+.experiencia-ahorcado-contenido {
+    width: 500px;
+    margin: 20px auto;
+}
+.experiencia-ahorcado-contenido-img{
+width: 100%;
+margin: 20px auto;
+}

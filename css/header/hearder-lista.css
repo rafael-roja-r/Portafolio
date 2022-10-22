@@ -1,0 +1,42 @@
+.header-menu{
+    width: 100%;
+}
+.hearder-lista{
+    margin: 0px auto;
+}
+
+
+.hearder-lista,.header-item{
+    list-style: none;
+   
+    
+}
+.header-item{
+    display: inline-block;   
+    margin: 23px auto; 
+    padding: 10px;
+}
+.header-link{
+    text-decoration: none;    
+    color: #fff;
+    margin: -8px;
+    padding: 8px;
+}
+.header-link:hover{   
+    color: #f3ec49;
+    margin: -8px;
+    padding: 8px;
+    border-bottom: 3px solid #f3ec49;
+    animation: boton-animado 2s linear;
+}
+@keyframes boton-animado {
+    0%{
+        
+        border-bottom: 5px solid #f3ec49;
+    }
+    10%{
+        border-bottom: 0px solid #f3ec49;
+       
+    }
+    
+}
