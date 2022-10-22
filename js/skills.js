@@ -1,6 +1,6 @@
 let dat ="";
 
-fetch('/js/skills.json')
+fetch('js/skills.json')
 .then(response =>{
     return response.json()   
 })
