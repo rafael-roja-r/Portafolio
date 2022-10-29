@@ -1,7 +1,7 @@
 [
     {
         "id":"1",
-        "img":"../img/icon/skills/ai.png",
+        "img":"/img/icon/skills/ai.png",
         "nombre":"adobe illustrator"
     },
     {
