@@ -1,6 +1,6 @@
 let dat ="";
 
-fetch('/js/skills.json')
+fetch('https://github.com/rafaelrr1/Portafolio/tree/main/js')
 .then(response =>{
     return response.json()   
 })
